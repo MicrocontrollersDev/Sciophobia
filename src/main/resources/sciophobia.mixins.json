@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "dev.microcontrollers.sciophobia.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"TextRendererMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
