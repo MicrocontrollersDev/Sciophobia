@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# Sciophobia
 
-## Setup
+Remove's Minecraft's text shadow rendering globally
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Download
 
-## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Downloads can be found on the [Modrinth page](https://modrinth.com/mod/sciophobia).
